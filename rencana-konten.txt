@@ -1,9 +1,8 @@
 rencana konten wpu
 -video javascript:
 es6
-framework
-  angular
-  vue
+framework:react
 -fundamental struktur data
--video php
+-video php:
+framework laravel
 -vlogs
