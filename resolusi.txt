@@ -2,4 +2,4 @@ resolusi
 -konsisten belajar
 -membuat platform untuk pengelolaan video 
 -menjadi web development
--menjadi web programmer
+-membuat website
